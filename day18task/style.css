@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #2A1B3D;
+}
+
+
+/* Navbar */
+.navbar-brand{
+   margin: auto;
+}
+
+
+/* Input box */
+.test{
+    display:flex;
+    justify-content: center;
+}
+#cityNames{
+    display: flex;
+    justify-content: center;
+}
+#test{
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Card Body */
+.card{
+   margin: auto;
+   margin-top: 15%;
+   background-color: #4E4E50;
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.btn{
+   display: flex;
+   margin: auto;
+   width: 40%;
+   justify-content: center;
+}
+.output{
+    margin-bottom: 20px;
+    margin-left: 20rem;
+}
+img{
+    width: 100px;
+    height: 200px;
+}
+
+.out{
+    display: inline-block;
+    /* margin: auto; */
+    margin: 40px;
+    margin-top: 10%;
+}
+h5{
+    background-color: black;
+    color: #C3073F;
+    width: 100%;
+}
+p{
+    color: white;
+}
+.btn{
+    background-color:#950740b3 !important ;
+    width: fit-content;
+    color: white;
+}
+.btn:hover{
+    background-color:#950740 ;
+    color:white ;
+    transform: scale(1.05);
+    border: 1px transparent currentColor;
+}
+.btn:visited{
+    background-color:#950740b3;
+    outline: none;
+}
+#weather{
+    color: white;
+}
+
+h6{
+    color: white;
+}
+/* input */
+#inp{
+    width: 100%;
+    height: 50px;
+    background-color: #C3073F;
+    margin-top: 3rem;
+}
+#we{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 20px;
+    /* display: inline; */
+    /* height: fit-content; */
+    /* width: fit-content; */
+
+}
+h3{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    color: #C3073F;
+    background-color: black;
+    font-size: 1.3rem;
+}
+.c1{
+    margin: 1%;
+    margin: auto;
+    margin-top: 2%;
+    padding: 20px 10px;
+    width: 25rem !important;
+    /* height: 38rem; */
+}
+/* img */
